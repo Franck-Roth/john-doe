@@ -20,10 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e2defd-ae9c-436b-a4bb-8ff1dbf42f4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CV_Franck-ROTH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/open-graph.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/path.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/path.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/skill-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skill-box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/thumbnail.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/thumbnail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/star.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/img" />
     </key>
   </component>
@@ -62,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605143418557</updated>
-      <workItem from="1605143421338" duration="5623000" />
+      <workItem from="1605143421338" duration="7436000" />
+      <workItem from="1605186087489" duration="3662000" />
     </task>
     <servers />
   </component>
@@ -79,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2618" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605147704677">
@@ -92,7 +102,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/js/main.js</url>
           <line>12</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

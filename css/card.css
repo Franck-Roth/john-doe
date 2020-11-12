@@ -2,6 +2,7 @@
 .card {
     position: relative;
     background: white;
+    opacity: 0.9;
     max-width: 600px;
     width: 100%;
     border-radius: 5px;
@@ -36,6 +37,15 @@
 
 #person-country {
     position: absolute;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    top: 30px;
+    left: calc(50% + 20px);
+    border: 2px solid white;
+}
+
+.social-media {
     border-radius: 50%;
     width: 30px;
     height: 30px;
