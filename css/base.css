@@ -50,6 +50,15 @@ hr {
     font-size: 16px;
     margin: 10px;
     text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-property: background-color, border, border-radius;
+    transition-duration: .5s;
+}
+
+.button:hover{
+    background-color: #007fff;
+    border-radius: 15px;
+    border: 2px solid black;
 }
 
 [disabled]{

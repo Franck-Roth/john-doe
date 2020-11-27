@@ -16,7 +16,15 @@
     text-align: left;
     padding: 10px;
     box-sizing: border-box;
+    transition: background-color, border;
+    transition-duration: .5s;
 }
+
+.step:hover{
+    background-color: #007fff;
+    border: 2px solid black;
+}
+
 
 .step::before {
     content: "";
@@ -33,7 +41,7 @@
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    background: #ecf0f1;
+    background: #007fff;
     position: absolute;
     top:-10px;
     left: -25px;

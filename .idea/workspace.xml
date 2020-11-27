@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e2defd-ae9c-436b-a4bb-8ff1dbf42f4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CV_Franck-ROTH.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/path.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/path.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skill-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skill-box.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/path.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/path.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/skill-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skill-box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/thumbnail.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/thumbnail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/star.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605143418557</updated>
       <workItem from="1605143421338" duration="7436000" />
-      <workItem from="1605186087489" duration="3662000" />
+      <workItem from="1605186087489" duration="3937000" />
+      <workItem from="1605202966271" duration="617000" />
+      <workItem from="1606482915868" duration="8004000" />
     </task>
     <servers />
   </component>
@@ -95,6 +92,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2618" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605147704677" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1606495268857">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606495268857" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
